@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Embedded Style Sample</title>
+    <style type="text/css">
+
+body { background: greenyellow}
+{color:blue}
+h3 {color:royalblue}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  background-color: black;
+
+}
+
+
